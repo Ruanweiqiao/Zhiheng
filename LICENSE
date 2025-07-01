@@ -1,0 +1,41 @@
+MIT License
+
+Copyright (c) 2025 厦门大学数据挖掘研究中心 (Xiamen University Data-Mining Research Center)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+智衡权重确定平台 (Intelligent Weight Determination Platform)
+
+本软件由厦门大学数据挖掘研究中心开发，用于大语言模型驱动的权重方法推荐。
+
+This software was developed by Xiamen University Data-Mining Research Center 
+for LLM-driven weight method recommendation.
+
+学术引用 (Academic Citation):
+如果您在学术研究中使用了本软件，请引用以下信息：
+
+厦门大学数据挖掘研究中心. (2025). 智衡权重确定平台: 大语言模型驱动的权重方法推荐系统. 
+GitHub. https://github.com/your-username/intelligent-weight-platform
+
+联系方式 (Contact):
+- 邮箱 (Email): ruanweiqiao@stu.xmu.edu.cn
+- 网站 (Website): www.dmrc.work
+- 地址 (Address): 厦门大学思明校区，福建省厦门市思明区
